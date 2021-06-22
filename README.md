@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Petmonds
-- 👀 I’m interested in web development, UI UX development, web programming, software development and testing 
+- 👀 I’m interested in web development, UI UX development, web programming, mobile app, databases, software development and testing 
 - 🌱 I’m currently learning Cybersecurity, business intelligence and data visualizations
 - 💞️ I’m looking to collaborate on IoT and Cloud computing 
 - 📫 How to reach me: petmonds94@gmail.com
